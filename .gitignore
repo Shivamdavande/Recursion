@@ -1,0 +1,10 @@
+# Ignore compiled executables
+*.exe
+*.out
+*.o
+*.obj
+
+# Ignore editor artifacts
+.vscode/
+.DS_Store
+Thumbs.db
