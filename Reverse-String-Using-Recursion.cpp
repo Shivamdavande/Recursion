@@ -9,7 +9,7 @@ using namespace std;
 
 void reverse(string &str, int i, int j) {
 
-   cout << "reverse :- " << str << endl;
+   cout << "reverse :n- " << str << endl;
 
     if(i > j) {
         return;
